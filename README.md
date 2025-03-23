@@ -12,4 +12,4 @@ styles.css → Diseño y estilos con Bootstrap.
 
 script.js → Funcionalidad y validaciones.
 
-Link de ingreso
+Link de ingreso: https://guacharako23.github.io/Entregable2/
